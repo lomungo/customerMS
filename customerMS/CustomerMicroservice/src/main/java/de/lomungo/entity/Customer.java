@@ -1,5 +1,10 @@
 package de.lomungo.entity;
 
+/**
+ * 
+ * @author jbartke
+ *
+ */
 public class Customer {
 
 	
