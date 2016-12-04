@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import de.lomungo.entity.Customer;
 
+/**
+ * 
+ * @author jbartke
+ *
+ */
 @RestController
 public class CustomerController {
 
